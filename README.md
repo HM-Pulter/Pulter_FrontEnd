@@ -7,7 +7,7 @@ COPYRIGHT 2024 Moyang INC. ALL RIGHTS RESERVED.
 
 ### 📚 Tech Stack
 #### 💻 Development
-<img src="https://skillicons.dev/icons?i=react& perline="/>
+<img src="https://skillicons.dev/icons?i=react,ts& perline="/>
 
 #### state management : 
 
